@@ -3,9 +3,9 @@ using Telegram.Bot.Requests;
 using Telegram.Bot.Types.InlineQueryResults;
 using Xunit;
 
-namespace Telegram.Bot.Tests.Unit.Serialization
+namespace Telegram.Bot.Tests.Integration_Test
 {
-    public class InputQueryResultTests
+    public class Int_Tests_4
     {
         [Fact(DisplayName = "Should serialize InlineQueryResultMpeg4Gif with ThumbMimeType")]
         public void Should_Serialize_InlineQueryResultMpeg4Gif_With_ThumbMimeType()

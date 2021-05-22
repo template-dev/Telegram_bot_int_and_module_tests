@@ -2,9 +2,9 @@ using System;
 using Telegram.Bot.Types;
 using Xunit;
 
-namespace Telegram.Bot.Tests.Unit
+namespace Telegram.Bot.Tests.Integration_Test
 {
-    public class ChatIdTests
+    public class Int_Tests_3
     {
         [Fact]
         public void Check_Constructor()
