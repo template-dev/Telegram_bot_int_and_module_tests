@@ -4,9 +4,9 @@ using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.InputFiles;
 using Xunit;
 
-namespace Telegram.Bot.Tests.Unit.Serialization
+namespace Telegram.Bot.Tests.Integration_Test
 {
-    public class InputFileSerializationTests
+    public class Int_Tests_6
     {
         [Fact(DisplayName = "Should serialize & deserialize input file stream")]
         public void Should_Serialize_Input_File_Stream()

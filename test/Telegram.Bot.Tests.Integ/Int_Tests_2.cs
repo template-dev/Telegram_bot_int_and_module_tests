@@ -1,9 +1,9 @@
 ﻿using System;
 using Xunit;
 
-namespace Telegram.Bot.Tests.Unit
+namespace Telegram.Bot.Tests.Integration_Test
 {
-    public class BotIdTests
+    public class Int_Tests_2
     {
         [Theory]
         [InlineData("1234567:4TT8bAc8GHUspu3ERYn-KGcvsvGB9u_n4ddy", 1234567)]

@@ -2,7 +2,7 @@ using Newtonsoft.Json;
 using Telegram.Bot.Types.ReplyMarkups;
 using Xunit;
 
-namespace Telegram.Bot.Tests.Unit.Serialization
+namespace Telegram.Bot.Tests.Unit
 {
     public class Unit_Tests_4
     {

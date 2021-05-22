@@ -4,9 +4,9 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Xunit;
 
-namespace Telegram.Bot.Tests.Unit.Serialization
+namespace Telegram.Bot.Tests.Integration_Test
 {
-    public class InputMediaSerializationTests
+    public class Int_Tests_5
     {
         [Fact(DisplayName = "Should serialize & deserialize input media from stream")]
         public void Should_Serialize_Input_Media_Stream()

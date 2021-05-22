@@ -4,7 +4,7 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Xunit;
 
-namespace Telegram.Bot.Tests.Unit.Serialization
+namespace Telegram.Bot.Tests.Unit
 {
     public class Unit_Tests_11
     {

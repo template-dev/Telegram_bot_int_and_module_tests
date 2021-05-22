@@ -4,9 +4,9 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Xunit;
 
-namespace Telegram.Bot.Tests.Unit.Serialization
+namespace Telegram.Bot.Tests.Integration_Test
 {
-    public class DocumentSerializationTests
+    public class Int_Tests_7
     {
         [Fact(DisplayName = "Should serialize a document message")]
         public void Should_Serialize_DocumentMessage()
