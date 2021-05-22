@@ -1,0 +1,15 @@
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\bin\Debug\net45\Telegram.Bot.dll
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\bin\Debug\net45\Telegram.Bot.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\bin\Debug\net45\Telegram.Bot.xml
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\bin\Debug\net45\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\bin\Debug\net45\System.Threading.Tasks.Extensions.dll
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\obj\Debug\net45\Telegram.Bot.csprojAssemblyReference.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\obj\Debug\net45\Telegram.Bot.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\obj\Debug\net45\Telegram.Bot.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\obj\Debug\net45\Telegram.Bot.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\obj\Debug\net45\Telegram.Bot.sourcelink.json
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\obj\Debug\net45\Telegram.Bot.csproj.CopyComplete
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\obj\Debug\net45\Telegram.Bot.dll
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\obj\Debug\net45\Telegram.Bot.xml
+C:\Users\vladi\OneDrive\Рабочий стол\Telegram.Bot-master\src\Telegram.Bot\obj\Debug\net45\Telegram.Bot.pdb
